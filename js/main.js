@@ -231,6 +231,20 @@
   }), { threshold: .6 });
   counters.forEach(c => io.observe(c));
 
+  /* ---------- Bento + seal ledger: reveal as a group, tiles catch the pointer ---------- */
+  $$('.cloud li').forEach((li, i) => li.style.setProperty('--n', i));
+  const revealIO = new IntersectionObserver(entries => entries.forEach(en => {
+    if (!en.isIntersecting) return;
+    revealIO.unobserve(en.target);
+    en.target.classList.add('is-in');
+  }), { threshold: .12, rootMargin: '0px 0px -8% 0px' });
+  $$('[data-reveal-group]').forEach(g => revealIO.observe(g));
+  if (finePointer) $$('.tile').forEach(tile => tile.addEventListener('pointermove', e => {
+    const r = tile.getBoundingClientRect();
+    tile.style.setProperty('--mx', e.clientX - r.left + 'px');
+    tile.style.setProperty('--my', e.clientY - r.top + 'px');
+  }, { passive: true }));
+
   /* ---------- Sectors rail: drag with inertia, cards tilt with speed ---------- */
   const rail = $('[data-rail]');
   const sectors = $$('.sector', rail);

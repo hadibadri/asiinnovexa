@@ -1,0 +1,82 @@
+{
+ "air-force": {
+  "file": "Seal of the United States Department of the Air Force.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_the_Air_Force.svg"
+ },
+ "army": {
+  "file": "Emblem of the United States Department of the Army.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_United_States_Department_of_the_Army.svg"
+ },
+ "cia": {
+  "file": "Seal of the Central Intelligence Agency.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Central_Intelligence_Agency.svg"
+ },
+ "coast-guard": {
+  "file": "Seal of the United States Coast Guard.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Coast_Guard.svg"
+ },
+ "dia": {
+  "file": "Seal of the U.S. Defense Intelligence Agency.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_U.S._Defense_Intelligence_Agency.svg"
+ },
+ "energy": {
+  "file": "Seal of the United States Department of Energy.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_Energy.svg"
+ },
+ "dhs": {
+  "file": "Seal of the United States Department of Homeland Security.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_Homeland_Security.svg"
+ },
+ "state": {
+  "file": "Seal of the United States Department of State.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_State.svg"
+ },
+ "treasury": {
+  "file": "Seal of the United States Department of the Treasury.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_the_Treasury.svg"
+ },
+ "justice": {
+  "file": "Seal of the United States Department of Justice.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_Justice.svg"
+ },
+ "fbi": {
+  "file": "Seal of the Federal Bureau of Investigation.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Federal_Bureau_of_Investigation.svg"
+ },
+ "usmc": {
+  "file": "Seal of the United States Marine Corps.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Marine_Corps.svg"
+ },
+ "nga": {
+  "file": "US-NationalGeospatialIntelligenceAgency-2008Seal.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:US-NationalGeospatialIntelligenceAgency-2008Seal.svg"
+ },
+ "nro": {
+  "file": "NRO.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:NRO.svg"
+ },
+ "nsa": {
+  "file": "Seal of the U.S. National Security Agency.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_U.S._National_Security_Agency.svg"
+ },
+ "navy": {
+  "file": "Seal of the United States Department of the Navy.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_the_Navy.svg"
+ }
+}
